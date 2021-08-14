@@ -4,4 +4,4 @@ Lorem Ipsum.
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Expanding Cards](https://github.com/bradtraversy/50projects50days/tree/master/expanding-cards)                             | [Live Demo](https://sad-wright-151ea6.netlify.app/)               |
+| 01  | [Car Slideshow](https://github.com/blancc-page/50DaysOfWebDev/tree/main/car-slideshow)                             | [Live Demo](https://sad-wright-151ea6.netlify.app/)               |
