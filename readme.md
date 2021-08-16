@@ -1,6 +1,46 @@
 # 50 Projects in 50 Days - HTML/CSS and JavaScript
 
-Lorem Ipsum.
+- It's exactly what it sounds like, 50 Frontend mini projects in 50 days (or hopefully less).
+
+## :hammer: Built With
+
+- HTML, CSS, JavaScript
+
+### :computer: Setup
+To get a local copy up and running follow these simple example steps.
+
+- open your terminal, and run 'git clone https://github.com/blancc-page/50DaysOfWebDev' to clone the repository to your computer  
+- cd into the project folder
+- open the index.html file with your preferred browser
+
+## :trollface: Authors
+
+👤 **Moses Muta**
+
+- GitHub: [@githubhandle](https://github.com/blancc-page)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/moses-muta-0271a2218/)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## :muscle: Show your support
+
+    Please give a⭐️if you love this project.
+## :raised_hands: Acknowledgments
+
+- Brad Traversy [@githubhandle](https://github.com/bradtraversy)
+- Florin Pop [@githubhandle](https://github.com/florinpop17)
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
+
+## ▶️ Projects
+
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
