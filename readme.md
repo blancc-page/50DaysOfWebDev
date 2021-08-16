@@ -4,14 +4,14 @@
 
 ## :hammer: Built With
 
-- HTML, CSS, JS
+- HTML, CSS, JavaScript
 
 ### :computer: Setup
 To get a local copy up and running follow these simple example steps.
 
-- open your terminal, and run 'git clone https://github.com/blancc-page/Restaurant-Reservation-System' to clone the repository to your computer  
+- open your terminal, and run 'git clone https://github.com/blancc-page/50DaysOfWebDev' to clone the repository to your computer  
 - cd into the project folder
-- open the index.html with your preferred browser
+- open the index.html file with your preferred browser
 
 ## :trollface: Authors
 
