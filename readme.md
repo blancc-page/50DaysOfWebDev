@@ -1,6 +1,6 @@
 # 50 Projects in 50 Days - HTML/CSS and JavaScript
 
-> Gourmet is a hypothetical restuarant and this is its table reservation web app.
+- It's exactly what it sounds like, 50 Frontend mini projects in 50 days (or hopefully less).
 
 ## :hammer: Built With
 
