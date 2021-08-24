@@ -49,9 +49,5 @@ This project is [MIT](./MIT.md) licensed.
 | 03  | [Rotating Navigation](https://github.com/blancc-page/50DaysOfWebDev/tree/main/rotating-navigation)                             | [Live Demo](https://eager-benz-6cf55c.netlify.app/)               |
 | 04  | [Hidden Search](https://github.com/blancc-page/50DaysOfWebDev/tree/main/hidden-search-widget)                             | [Live Demo](https://fervent-wing-e1d5a3.netlify.app/)               |
 | 05  | [Blurry Loading](https://github.com/blancc-page/50DaysOfWebDev/tree/main/blurry-loading)                             | [Live Demo](https://priceless-heyrovsky-35ba77.netlify.app/)               |
-<<<<<<< HEAD
 | 06  | [Scroll Animation](https://github.com/blancc-page/50DaysOfWebDev/tree/main/blurry-loading)                             | [Live Demo](https://priceless-tesla-ab1403.netlify.app/)               |
 | 07  | [Split LandingPage](https://github.com/blancc-page/50DaysOfWebDev/tree/main/split-landingpage)                             | [Live Demo](https://kind-shannon-3f2c3e.netlify.app/)               |
-=======
-| 06  | [Scroll Animation](https://github.com/blancc-page/50DaysOfWebDev/tree/main/scroll-animation)                             | [Live Demo](https://priceless-tesla-ab1403.netlify.app/)               |
->>>>>>> 6f27eb9c5aaf2cad616be392c7cee06c62ab2431
