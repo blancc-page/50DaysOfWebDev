@@ -52,3 +52,4 @@ This project is [MIT](./MIT.md) licensed.
 | 06  | [Scroll Animation](https://github.com/blancc-page/50DaysOfWebDev/tree/main/blurry-loading)                             | [Live Demo](https://priceless-tesla-ab1403.netlify.app/)               |
 | 07  | [Split LandingPage](https://github.com/blancc-page/50DaysOfWebDev/tree/main/split-landingpage)                             | [Live Demo](https://kind-shannon-3f2c3e.netlify.app/)               |
 | 08  | [Form Wave Animation](https://github.com/blancc-page/50DaysOfWebDev/tree/main/form-wave-animation)                             | [Live Demo](https://tender-pare-d18a46.netlify.app/)               |
+| 09  | [Sound Board](https://github.com/blancc-page/50DaysOfWebDev/tree/main/sound-board)                             | [Live Demo](https://inspiring-lumiere-33f62e.netlify.app/)               |
