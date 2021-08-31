@@ -53,3 +53,4 @@ This project is [MIT](./MIT.md) licensed.
 | 07  | [Split LandingPage](https://github.com/blancc-page/50DaysOfWebDev/tree/main/split-landingpage)                             | [Live Demo](https://kind-shannon-3f2c3e.netlify.app/)               |
 | 08  | [Form Wave Animation](https://github.com/blancc-page/50DaysOfWebDev/tree/main/form-wave-animation)                             | [Live Demo](https://tender-pare-d18a46.netlify.app/)               |
 | 09  | [Sound Board](https://github.com/blancc-page/50DaysOfWebDev/tree/main/sound-board)                             | [Live Demo](https://inspiring-lumiere-33f62e.netlify.app/)               |
+| 10  | [Dad Jokes](https://github.com/blancc-page/50DaysOfWebDev/tree/main/dad-jokes)                             | [Live Demo](https://practical-kowalevski-95d770.netlify.app/)               |
