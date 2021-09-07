@@ -56,3 +56,4 @@ This project is [MIT](./MIT.md) licensed.
 | 10  | [Dad Jokes](https://github.com/blancc-page/50DaysOfWebDev/tree/main/dad-jokes)                             | [Live Demo](https://practical-kowalevski-95d770.netlify.app/)               |
 | 11  | [Event Key Codes](https://github.com/blancc-page/50DaysOfWebDev/tree/main/event-key-codes)                             | [Live Demo](https://frosty-haibt-e21db7.netlify.app/)               |
 | 12  | [FAQ Collapse](https://github.com/blancc-page/50DaysOfWebDev/tree/main/faq-collapse)                             | [Live Demo](https://angry-yalow-f5da5f.netlify.app/)               |
+| 13  | [Random Choice Maker](https://github.com/blancc-page/50DaysOfWebDev/tree/main/choice-maker)                             | [Live Demo](https://upbeat-golick-92b8bd.netlify.app/)               |
