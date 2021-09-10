@@ -57,4 +57,5 @@ This project is [MIT](./MIT.md) licensed.
 | 11  | [Event Key Codes](https://github.com/blancc-page/50DaysOfWebDev/tree/main/event-key-codes)                             | [Live Demo](https://frosty-haibt-e21db7.netlify.app/)               |
 | 12  | [FAQ Collapse](https://github.com/blancc-page/50DaysOfWebDev/tree/main/faq-collapse)                             | [Live Demo](https://angry-yalow-f5da5f.netlify.app/)               |
 | 13  | [Random Choice Maker](https://github.com/blancc-page/50DaysOfWebDev/tree/main/choice-maker)                             | [Live Demo](https://upbeat-golick-92b8bd.netlify.app/)               |
-| 14  | [Animated Navigation](https://github.com/blancc-page/50DaysOfWebDev/tree/main/animated-navigation)                             | [Live Demo](https://agitated-williams-0cc80d.netlify.app//)               |
+| 14  | [Animated Navigation](https://github.com/blancc-page/50DaysOfWebDev/tree/main/animated-navigation)                             | [Live Demo](https://agitated-williams-0cc80d.netlify.app/)               |
+| 15  | [Increment Counter](https://github.com/blancc-page/50DaysOfWebDev/tree/main/increment-counter)                             | [Live Demo](https://loving-joliot-c64760.netlify.app/)               |
