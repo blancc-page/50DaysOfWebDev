@@ -59,3 +59,4 @@ This project is [MIT](./MIT.md) licensed.
 | 13  | [Random Choice Maker](https://github.com/blancc-page/50DaysOfWebDev/tree/main/choice-maker)                             | [Live Demo](https://upbeat-golick-92b8bd.netlify.app/)               |
 | 14  | [Animated Navigation](https://github.com/blancc-page/50DaysOfWebDev/tree/main/animated-navigation)                             | [Live Demo](https://agitated-williams-0cc80d.netlify.app/)               |
 | 15  | [Increment Counter](https://github.com/blancc-page/50DaysOfWebDev/tree/main/increment-counter)                             | [Live Demo](https://loving-joliot-c64760.netlify.app/)               |
+| 16 | [Drink Water](https://github.com/blancc-page/50DaysOfWebDev/tree/main/drink-water)                             | [Live Demo](https://cocky-hoover-847ee3.netlify.app/)               |
