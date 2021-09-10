@@ -60,4 +60,4 @@ This project is [MIT](./MIT.md) licensed.
 | 14  | [Animated Navigation](https://github.com/blancc-page/50DaysOfWebDev/tree/main/animated-navigation)                             | [Live Demo](https://agitated-williams-0cc80d.netlify.app/)               |
 | 15  | [Increment Counter](https://github.com/blancc-page/50DaysOfWebDev/tree/main/increment-counter)                             | [Live Demo](https://loving-joliot-c64760.netlify.app/)               |
 | 16 | [Drink Water](https://github.com/blancc-page/50DaysOfWebDev/tree/main/drink-water)                             | [Live Demo](https://cocky-hoover-847ee3.netlify.app/)               |
-| 17 | [Movie App](https://github.com/blancc-page/50DaysOfWebDev/tree/main/movie-app)                             | [Live Demo](https://nifty-heyrovsky-a51b68.netlify.app/)               |
+| 17 | [Background Slider](https://github.com/blancc-page/50DaysOfWebDev/tree/main/background-slider)                             | [Live Demo](https://mystifying-bartik-fd27c7.netlify.app/)               |
