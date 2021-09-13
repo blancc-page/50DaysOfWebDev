@@ -61,3 +61,4 @@ This project is [MIT](./MIT.md) licensed.
 | 15  | [Increment Counter](https://github.com/blancc-page/50DaysOfWebDev/tree/main/increment-counter)                             | [Live Demo](https://loving-joliot-c64760.netlify.app/)               |
 | 16 | [Drink Water](https://github.com/blancc-page/50DaysOfWebDev/tree/main/drink-water)                             | [Live Demo](https://cocky-hoover-847ee3.netlify.app/)               |
 | 17 | [Background Slider](https://github.com/blancc-page/50DaysOfWebDev/tree/main/background-slider)                             | [Live Demo](https://mystifying-bartik-fd27c7.netlify.app/)               |
+| 18 | [Theme Clock](https://github.com/blancc-page/50DaysOfWebDev/tree/main/theme-clock)                             | [Live Demo](https://festive-liskov-de434d.netlify.app/)               |
