@@ -66,3 +66,4 @@ This project is [MIT](./MIT.md) licensed.
 | 20 | [Drag N Drop](https://github.com/blancc-page/50DaysOfWebDev/tree/main/drag-n-drop)                             | [Live Demo](https://ecstatic-pike-4d7bb4.netlify.app/)               |
 | 21 | [Drawing App](https://github.com/blancc-page/50DaysOfWebDev/tree/main/drawing-app)                             | [Live Demo](https://inspiring-perlman-36c475.netlify.app/)               |
 | 22 | [Movie App](https://github.com/blancc-page/50DaysOfWebDev/tree/main/movie-app)                             | [Live Demo](https://nifty-heyrovsky-a51b68.netlify.app/)               |
+| 22 | [Kinetic Loader](https://github.com/blancc-page/50DaysOfWebDev/tree/main/kinetic-loader)                             | [Live Demo](https://stupefied-panini-841f22.netlify.app/)               |
