@@ -1,5 +1,3 @@
-
-
 const API_KEY = "d1a60972cad1cfe38608717f5b58bd69";
 const API_URL = "https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=" + API_KEY + "&page=1";
 const IMG_PATH = "https://image.tmdb.org/t/p/w1280";
@@ -24,7 +22,7 @@ function showMovies(movies){
     main.innerHTML = " ";
 
     movies.forEach((movie) => {
-        const { title, poster_path, vote_average, overview} = movie;
+        const { title, poster_path, vote_average, overview } = movie;
 
         const movieEl = document.createElement("div");
         movieEl.classList.add("movie");

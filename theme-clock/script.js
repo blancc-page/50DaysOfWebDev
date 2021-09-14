@@ -48,7 +48,6 @@ function setTime(){
 
     toggleClock.addEventListener("click", () => {
         timeEl.innerHTML = " ";
-        timeEl.style.transition = "all 0.5s ease-in";
     });
 
 }
