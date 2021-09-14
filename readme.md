@@ -70,3 +70,4 @@ This project is [MIT](./MIT.md) licensed.
 | 24 | [Content Placeholder](https://github.com/blancc-page/50DaysOfWebDev/tree/main/content-placeholder)                             | [Live Demo](https://stoic-ritchie-21364a.netlify.app/)               |
 | 25 | [Sticky Nav](https://github.com/blancc-page/50DaysOfWebDev/tree/main/sticky-nav)                             | [Live Demo](https://angry-dubinsky-6d8204.netlify.app/)               |
 | 26 | [Vertical Slider](https://github.com/blancc-page/50DaysOfWebDev/tree/main/vertical-slider)                             | [Live Demo](https://inspiring-kowalevski-18a863.netlify.app/)               |
+| 27 | [Toast Notification](https://github.com/blancc-page/50DaysOfWebDev/tree/main/toast-notification)                             | [Live Demo](https://happy-golick-0d70b7.netlify.app/)               |
