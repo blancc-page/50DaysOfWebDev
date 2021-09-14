@@ -17,24 +17,19 @@ function dragStart(){
     setTimeout(() => this.className = "invisible", 0)
 }
 function dragEnd(){
-    this.className = "fill";
-    console.log("dragEnd");    
+    this.className = "fill";    
 }
 function dragOver(e){
     e.preventDefault();
-    console.log("dragOver");
 }
 function dragEnter(e){
     e.preventDefault();
     this.className += " hovered"
-    console.log("dragEnter");
 }
 function dragLeave(){
-    console.log("dragLeave");
     this.className ="empty"
 }
 function dragDrop(){
-    console.log("dragDrop");
     this.className = "empty";
     this.append(fill)
 }
