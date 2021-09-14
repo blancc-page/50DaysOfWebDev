@@ -69,3 +69,4 @@ This project is [MIT](./MIT.md) licensed.
 | 23 | [Kinetic Loader](https://github.com/blancc-page/50DaysOfWebDev/tree/main/kinetic-loader)                             | [Live Demo](https://stupefied-panini-841f22.netlify.app/)               |
 | 24 | [Content Placeholder](https://github.com/blancc-page/50DaysOfWebDev/tree/main/content-placeholder)                             | [Live Demo](https://stoic-ritchie-21364a.netlify.app/)               |
 | 25 | [Sticky Nav](https://github.com/blancc-page/50DaysOfWebDev/tree/main/sticky-nav)                             | [Live Demo](https://angry-dubinsky-6d8204.netlify.app/)               |
+| 26 | [Vertical Slider](https://github.com/blancc-page/50DaysOfWebDev/tree/main/vertical-slider)                             | [Live Demo](https://inspiring-kowalevski-18a863.netlify.app/)               |
