@@ -73,3 +73,4 @@ This project is [MIT](./MIT.md) licensed.
 | 27 | [Toast Notification](https://github.com/blancc-page/50DaysOfWebDev/tree/main/toast-notification)                             | [Live Demo](https://happy-golick-0d70b7.netlify.app/)               |
 | 28 | [Github Profile](https://github.com/blancc-page/50DaysOfWebDev/tree/main/github-profile)                             | [Live Demo](https://hopeful-thompson-6326f9.netlify.app/)               |
 | 29 | [Double Tap](https://github.com/blancc-page/50DaysOfWebDev/tree/main/double-tap)                             | [Live Demo](https://eloquent-knuth-dfe2f3.netlify.app/)               |
+| 30 | [Auto Text](https://github.com/blancc-page/50DaysOfWebDev/tree/main/auto-text)                             | [Live Demo](https://stoic-engelbart-eff22d.netlify.app/)               |
