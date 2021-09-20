@@ -76,3 +76,4 @@ This project is [MIT](./MIT.md) licensed.
 | 30 | [Auto Text](https://github.com/blancc-page/50DaysOfWebDev/tree/main/auto-text)                             | [Live Demo](https://stoic-engelbart-eff22d.netlify.app/)               |
 | 31 | [Password Generator](https://github.com/blancc-page/50DaysOfWebDev/tree/main/password-generator)                             | [Live Demo](https://happy-payne-764ca3.netlify.app/)               |
 | 32 | [Checkboxes](https://github.com/blancc-page/50DaysOfWebDev/tree/main/checkboxes)                             | [Live Demo](https://frosty-booth-9db404.netlify.app/)               |
+| 33 | [Notes App](https://github.com/blancc-page/50DaysOfWebDev/tree/main/notes-app)                             | [Live Demo](https://objective-kepler-53192f.netlify.app/)               |
