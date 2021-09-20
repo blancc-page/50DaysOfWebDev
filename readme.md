@@ -77,3 +77,4 @@ This project is [MIT](./MIT.md) licensed.
 | 31 | [Password Generator](https://github.com/blancc-page/50DaysOfWebDev/tree/main/password-generator)                             | [Live Demo](https://happy-payne-764ca3.netlify.app/)               |
 | 32 | [Checkboxes](https://github.com/blancc-page/50DaysOfWebDev/tree/main/checkboxes)                             | [Live Demo](https://frosty-booth-9db404.netlify.app/)               |
 | 33 | [Notes App](https://github.com/blancc-page/50DaysOfWebDev/tree/main/notes-app)                             | [Live Demo](https://objective-kepler-53192f.netlify.app/)               |
+| 34 | [Animated CountDown](https://github.com/blancc-page/50DaysOfWebDev/tree/main/animated-countdown)                             | [Live Demo](https://cranky-allen-d6788c.netlify.app/)               |
