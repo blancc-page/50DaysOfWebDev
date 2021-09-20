@@ -78,3 +78,4 @@ This project is [MIT](./MIT.md) licensed.
 | 32 | [Checkboxes](https://github.com/blancc-page/50DaysOfWebDev/tree/main/checkboxes)                             | [Live Demo](https://frosty-booth-9db404.netlify.app/)               |
 | 33 | [Notes App](https://github.com/blancc-page/50DaysOfWebDev/tree/main/notes-app)                             | [Live Demo](https://objective-kepler-53192f.netlify.app/)               |
 | 34 | [Animated CountDown](https://github.com/blancc-page/50DaysOfWebDev/tree/main/animated-countdown)                             | [Live Demo](https://cranky-allen-d6788c.netlify.app/)               |
+| 35 | [Image Carousel](https://github.com/blancc-page/50DaysOfWebDev/tree/main/image-carousel)                             | [Live Demo](https://agitated-euler-ffbc31.netlify.app/)               |
