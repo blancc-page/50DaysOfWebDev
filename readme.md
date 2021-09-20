@@ -42,7 +42,7 @@ This project is [MIT](./MIT.md) licensed.
 ## ▶️ Projects
 
 
-|  #  | Project                                                                                                                     | Live Demo                                                                         |
+|  #  | Project Repo.                                                                                                                    | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Car Slideshow](https://github.com/blancc-page/50DaysOfWebDev/tree/main/car-slideshow)                             | [Live Demo](https://sad-wright-151ea6.netlify.app/)               |
 | 02  | [Progress Steps](https://github.com/blancc-page/50DaysOfWebDev/tree/main/steps)                             | [Live Demo](https://awesome-montalcini-a5bd11.netlify.app/)               |
@@ -74,4 +74,5 @@ This project is [MIT](./MIT.md) licensed.
 | 28 | [Github Profile](https://github.com/blancc-page/50DaysOfWebDev/tree/main/github-profile)                             | [Live Demo](https://hopeful-thompson-6326f9.netlify.app/)               |
 | 29 | [Double Tap](https://github.com/blancc-page/50DaysOfWebDev/tree/main/double-tap)                             | [Live Demo](https://eloquent-knuth-dfe2f3.netlify.app/)               |
 | 30 | [Auto Text](https://github.com/blancc-page/50DaysOfWebDev/tree/main/auto-text)                             | [Live Demo](https://stoic-engelbart-eff22d.netlify.app/)               |
-| 30 | [Password Generator](https://github.com/blancc-page/50DaysOfWebDev/tree/main/password-generator)                             | [Live Demo](https://happy-payne-764ca3.netlify.app/)               |
+| 31 | [Password Generator](https://github.com/blancc-page/50DaysOfWebDev/tree/main/password-generator)                             | [Live Demo](https://happy-payne-764ca3.netlify.app/)               |
+| 32 | [Checkboxes](https://github.com/blancc-page/50DaysOfWebDev/tree/main/checkboxes)                             | [Live Demo](https://frosty-booth-9db404.netlify.app/)               |
