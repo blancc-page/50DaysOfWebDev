@@ -75,3 +75,4 @@ This project is [MIT](./MIT.md) licensed.
 | 29 | [Double Tap](https://github.com/blancc-page/50DaysOfWebDev/tree/main/double-tap)                             | [Live Demo](https://eloquent-knuth-dfe2f3.netlify.app/)               |
 | 30 | [Auto Text](https://github.com/blancc-page/50DaysOfWebDev/tree/main/auto-text)                             | [Live Demo](https://stoic-engelbart-eff22d.netlify.app/)               |
 | 30 | [Password Generator](https://github.com/blancc-page/50DaysOfWebDev/tree/main/password-generator)                             | [Live Demo](https://happy-payne-764ca3.netlify.app/)               |
+| 30 | [Checkboxes](https://github.com/blancc-page/50DaysOfWebDev/tree/main/checkboxes)                             | [Live Demo](https://frosty-booth-9db404.netlify.app/)               |
