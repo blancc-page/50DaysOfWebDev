@@ -80,3 +80,5 @@ This project is [MIT](./MIT.md) licensed.
 | 34 | [Animated CountDown](https://github.com/blancc-page/50DaysOfWebDev/tree/main/animated-countdown)                             | [Live Demo](https://cranky-allen-d6788c.netlify.app/)               |
 | 35 | [Image Carousel](https://github.com/blancc-page/50DaysOfWebDev/tree/main/image-carousel)                             | [Live Demo](https://agitated-euler-ffbc31.netlify.app/)               |
 | 36 | [Hoverboard](https://github.com/blancc-page/50DaysOfWebDev/tree/main/hover-board)                             | [Live Demo](https://compassionate-ptolemy-34db3d.netlify.app/)               |
+| 37 | [Pokedex](https://github.com/blancc-page/50DaysOfWebDev/tree/main/pokedex)                             | [Live Demo](https://trusting-aryabhata-519c6b.netlify.app/)               |
+
