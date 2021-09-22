@@ -82,4 +82,5 @@ This project is [MIT](./MIT.md) licensed.
 | 36 | [Hoverboard](https://github.com/blancc-page/50DaysOfWebDev/tree/main/hover-board)                             | [Live Demo](https://compassionate-ptolemy-34db3d.netlify.app/)               |
 | 37 | [Pokedex](https://github.com/blancc-page/50DaysOfWebDev/tree/main/pokedex)                             | [Live Demo](https://trusting-aryabhata-519c6b.netlify.app/)               |
 | 38 | [Mobile Tab Navigation](https://github.com/blancc-page/50DaysOfWebDev/tree/main/mobile-tab-navigation)                             | [Live Demo](https://compassionate-goldstine-6749b2.netlify.app/)               |
+| 38 | [Mobile Tab Navigation](https://github.com/blancc-page/50DaysOfWebDev/tree/main/password-strength-background)                             | [Live Demo](https://ecstatic-leavitt-607924.netlify.app/)               |
 
