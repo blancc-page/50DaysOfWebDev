@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- CSS -->
+    <link rel="stylesheet" href="styles.css">
+    <!-- font-awsome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- tailwind -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.15/tailwind.min.css" integrity="sha512-braXHF1tCeb8MzPktmUHhrjZBSZknHvjmkUdkAbeqtIrWwCchhcpUeAf2Sq3yIq1Q1x5PlroafjceOUbIE3Q5g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- meta-tag -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Strength Background</title>
+</head>
+<body>
+     <div class="background" id="background"></div>
+     <div id="container" class="bg-white rounded p-10 text-center shadow-md bg-opacity-50">
+         <h1 class="text-3xl">Image Password Strength</h1>
+         <p class="text-sm mt-2 text-gray-700">Change the password to see the effect</p>
+         <div class="my-4 text-left">
+             <label for="email" class="text-gray-900">Email</label>
+             <input type="text" 
+             class="border block w-full p-2 mt-2 rounded" 
+             id="email" 
+             placeholder="Enter Email"></input>
+         </div>
+         <div class="my-4 text-left">
+            <label for="password" class="text-gray-900">Password</label>
+            <input type="password" 
+            class="border block w-full p-2 mt-2 rounded" 
+            id="password" 
+            placeholder="Enter Password"></input>
+        </div>
+
+        <button type="submit" 
+        id="submit-btn" 
+        class="bg-black text-white py-2 mt-4 inline-block w-full rounded">Submit</button>
+     </div>
+
+
+
+    <script src="script.js"></script>
+</body>
+</html>
