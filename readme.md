@@ -84,4 +84,5 @@ This project is [MIT](./MIT.md) licensed.
 | 38 | [Mobile Tab Navigation](https://github.com/blancc-page/50DaysOfWebDev/tree/main/mobile-tab-navigation)                             | [Live Demo](https://compassionate-goldstine-6749b2.netlify.app/)               |
 | 39 | [Mobile Tab Navigation](https://github.com/blancc-page/50DaysOfWebDev/tree/main/password-strength-background)                             | [Live Demo](https://ecstatic-leavitt-607924.netlify.app/)               |
 | 40 | [3D Background Boxes](https://github.com/blancc-page/50DaysOfWebDev/tree/main/background-boxes)                             | [Live Demo](https://inspiring-liskov-535e2c.netlify.app/)               |
+| 41 | [Veriy UI](https://github.com/blancc-page/50DaysOfWebDev/tree/main/verify-ui)                             | [Live Demo](https://condescending-almeida-f14693.netlify.app/)               |
 
