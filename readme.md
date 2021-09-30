@@ -87,4 +87,6 @@ This project is [MIT](./MIT.md) licensed.
 | 41 | [Veriy UI](https://github.com/blancc-page/50DaysOfWebDev/tree/main/verify-ui)                             | [Live Demo](https://condescending-almeida-f14693.netlify.app/)               |
 | 42 | [Live User Filter](https://github.com/blancc-page/50DaysOfWebDev/tree/main/live-user-filter)                             | [Live Demo](https://suspicious-allen-6308d9.netlify.app/)               |
 | 43 | [Feedback UI](https://github.com/blancc-page/50DaysOfWebDev/tree/main/feedback-ui)                             | [Live Demo](https://condescending-kirch-4652f6.netlify.app/)               |
+| 44 | [Custom Range Slider](https://github.com/blancc-page/50DaysOfWebDev/tree/main/custom-range-slider)                             | [Live Demo](https://romantic-saha-e3f7d9.netlify.app/)               |
+
 
