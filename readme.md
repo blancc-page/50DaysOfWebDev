@@ -89,5 +89,6 @@ This project is [MIT](./MIT.md) licensed.
 | 43 | [Feedback UI](https://github.com/blancc-page/50DaysOfWebDev/tree/main/feedback-ui)                             | [Live Demo](https://condescending-kirch-4652f6.netlify.app/)               |
 | 44 | [Custom Range Slider](https://github.com/blancc-page/50DaysOfWebDev/tree/main/custom-range-slider)                             | [Live Demo](https://romantic-saha-e3f7d9.netlify.app/)               |
 | 45 | [Netflix Navigation](https://github.com/blancc-page/50DaysOfWebDev/tree/main/netfix-navigation)                             | [Live Demo](https://loving-mclean-afc637.netlify.app/)               |
+| 45 | [Quiz App](https://github.com/blancc-page/50DaysOfWebDev/tree/main/quiz-app)                             | [Live Demo](https://relaxed-goldwasser-a33f22.netlify.app/)               |
 
 
