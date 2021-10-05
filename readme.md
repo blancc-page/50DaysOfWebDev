@@ -93,5 +93,6 @@ This project is [MIT](./MIT.md) licensed.
 | 47 | [Testimonials](https://github.com/blancc-page/50DaysOfWebDev/tree/main/testimonials)                             | [Live Demo](https://gallant-roentgen-f4a5d8.netlify.app/)               |
 | 48 | [Random Image Feed](https://github.com/blancc-page/50DaysOfWebDev/tree/main/random-image-feed)                             | [Live Demo](https://eloquent-newton-317eb0.netlify.app/)               |
 | 49 | [Todo List](https://github.com/blancc-page/50DaysOfWebDev/tree/main/todo-list)                             | [Live Demo](https://gracious-lovelace-49fb77.netlify.app/)               |
+| 50 | [Insect Game](https://github.com/blancc-page/50DaysOfWebDev/tree/main/insect-catch)                             | [Live Demo](https://cranky-beaver-a9608f.netlify.app/)               |
 
 
